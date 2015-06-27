@@ -1,4 +1,11 @@
 
+##Gazebo
+Robot simulation is an essential tool in every roboticist's toolbox. A well-designed simulator makes it possible to rapidly test algorithms, design robots, and perform regression testing using realistic scenarios.
+Gazebo allows you to simulate robots in complex environments, it has a robust physics engine, high-quality graphics, and convenient programmatic and graphical interfaces.
+
+[http://gazebosim.org/#getstarted](Gazebosim)
+[http://wiki.ros.org/gazebo](Gazebo ROS Package)
+
 ##Install MoveIt!
 MoveIt! is state of the art software for mobile manipulation, incorporating the latest advances in motion planning, manipulation, 3D perception, kinematics, control and navigation.
 It provides an easy-to-use platform for developing advanecd robotics application, evaluating new robot designs and building integrated robotics products for industrial, commercial, R&D and other domain.
