@@ -30,3 +30,9 @@ tf maintains the relationship between coordinate frames in a tree structure buff
 "It is used by RViz
 
 [http://wiki.ros.org/tf](TF Transform System)
+
+## Dynamixel
+[http://wiki.ros.org/dynamixel_controllers](Controller)
+[http://wiki.ros.org/dynamixel_controllers/Tutorials](Tutorial)
+
+//[http://correll.cs.colorado.edu/clam/](Clam Arm)
