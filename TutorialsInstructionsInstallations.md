@@ -4,6 +4,9 @@ Robot simulation is an essential tool in every roboticist's toolbox. A well-desi
 Gazebo allows you to simulate robots in complex environments, it has a robust physics engine, high-quality graphics, and convenient programmatic and graphical interfaces.
 
 [http://gazebosim.org/#getstarted](Gazebosim)
+
+[http://gazebosim.org/tutorials?tut=ros_overview](Tutorial: ROS Integration Overview)
+
 [http://wiki.ros.org/gazebo](Gazebo ROS Package)
 
 ##Install MoveIt!
