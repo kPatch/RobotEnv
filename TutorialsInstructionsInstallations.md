@@ -1,5 +1,7 @@
 
-##Install MoveIt
+##Install MoveIt!
+MoveIt! is state of the art software for mobile manipulation, incorporating the latest advances in motion planning, manipulation, 3D perception, kinematics, control and navigation.
+It provides an easy-to-use platform for developing advanecd robotics application, evaluating new robot designs and building integrated robotics products for industrial, commercial, R&D and other domain.
 
 [http://moveit.ros.org/install/](Install MoveIt)
 
