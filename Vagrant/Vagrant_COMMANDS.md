@@ -69,3 +69,6 @@ Desstroying a guest machine will cause you to lose any changes made to the machi
 
 $ `vagrant destroy`
 
+## References and Resources
+
+Vagrant: Up and Running by Mitchell Ha‐ shimoto (O’Reilly). Copyright 2013 Mitchell Hashimoto, 978-1-449-33583-0.
